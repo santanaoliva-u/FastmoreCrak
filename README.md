@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Kon'nichiwa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** watashi wa ihsan desu ~  | [![Profile views](https://gpvc.arturio.dev/FastmoreCrak)](https://github.com/FastmoreCrak)
+# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **привет как дела? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Добро пожаловать | [![Profile views](https://gpvc.arturio.dev/FastmoreCrak)](https://github.com/FastmoreCrak)
 
 
 - **🐋 [Heroku](https://heroku.com) Power User 💪**
@@ -14,6 +14,7 @@
 
 [instagram]: https://instagram.com/fastmorecrak
 [telegram]: https://t.me/fastmorecrak
+[Youtube]: https://www.youtube.com/channel/UCTLg6tCKlvE7BT6_4CDvJbA
 
 ## 👦 **About me**:
 
@@ -54,8 +55,8 @@
 
 **Contact Me:**
 
-![Telegram Badge](https://img.shields.io/badge/-Ihsan-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/RxyMX)
-![Gmail Badge](https://img.shields.io/badge/-ihsanzcoki@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ihsanzcoki@gmail.com)
+![Telegram Badge](https://img.shields.io/badge/-Ihsan-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/fastmorecrak)
+![Gmail Badge](https://img.shields.io/badge/-fastmorecrak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fastmorecrak@gmail.com)
 [![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40AnimeGrupIndonesia&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DGrup_Anime_Chat&longCache=true%22)](https://t.me/Grup_Anime_Chat)
 
 ##  🎶 **Currently Playing**
@@ -78,7 +79,7 @@
 
 - **Buy me a Ko-fi:**
 
-    <a href='https://trakteer.id/Scroxy' target='_blank'><img height='25' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=a&w=144' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    <a href='https://trakteer.id/fastmorecrak' target='_blank'><img height='25' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=a&w=144' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 - **Support me by Signing up on Heroku:**
 
