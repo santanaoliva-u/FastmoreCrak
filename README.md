@@ -1,4 +1,4 @@
-# <img src="https://fastmorecrak.github.io/Home/favicon.png width="50px"> 😇привет как дела? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Добро пожаловать 💬 [![Profile views](https://gpvc.arturio.dev/FastmoreCrak)](https://github.com/FastmoreCrak)
+# <img src="https://fastmorecrak.github.io/Home/favicon.png" width="50px"> 😇привет как дела? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Добро пожаловать 💬 [![Profile views](https://gpvc.arturio.dev/FastmoreCrak)](https://github.com/FastmoreCrak)
 
 
 - **🐋 [Heroku](https://heroku.com) Power User 💪**
