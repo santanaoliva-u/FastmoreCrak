@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Kon'nichiwa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** watashi wa ihsan desu ~  | [![Profile views](https://gpvc.arturio.dev/UserLazy)](https://github.com/UserLazy)
+# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Kon'nichiwa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** watashi wa ihsan desu ~  | [![Profile views](https://gpvc.arturio.dev/FastmoreCrak)](https://github.com/FastmoreCrak)
 
 
 - **🐋 [Heroku](https://heroku.com) Power User 💪**
@@ -64,14 +64,14 @@
 
 ##  🐙 **Github Stats**
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=UserLazy&show_icons=true&theme=radical)](https://github.com/UserLazy)
+[![github stats](https://github-readme-stats.vercel.app/api?username=FastmoreCrak&show_icons=true&theme=radical)](https://github.com/FastmoreCrak
 
 ![GitHub followers](https://img.shields.io/github/followers/UserLazy?color=aqua&label=Followers&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/UserLazy?affiliations=OWNER&color=aqua&style=for-the-badge)
 
 ## 🌐 **Top Languages**
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UserLazy&show_icons=true&theme=radical&layout=compact)](https://github.com/Scroxy-X)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UserLazy&show_icons=true&theme=radical&layout=compact)](https://github.com/Fastmorecrak)
 
 
 ## 💰 **Donations & Support**
