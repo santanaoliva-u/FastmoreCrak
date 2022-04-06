@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **привет как дела? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Добро пожаловать | [![Profile views](https://gpvc.arturio.dev/FastmoreCrak)](https://github.com/FastmoreCrak)
+# <img src="https://tenor.com/PsXT.gif" width="50px"> 😇привет как дела? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Добро пожаловать 💬 [![Profile views](https://gpvc.arturio.dev/FastmoreCrak)](https://github.com/FastmoreCrak)
 
 
 - **🐋 [Heroku](https://heroku.com) Power User 💪**
@@ -55,9 +55,8 @@
 
 **Contact Me:**
 
-![Telegram Badge](https://img.shields.io/badge/-Ihsan-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/fastmorecrak)
+![Telegram Badge](https://img.shields.io/badge/-FastmoreCrak-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/fastmorecrak)
 ![Gmail Badge](https://img.shields.io/badge/-fastmorecrak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fastmorecrak@gmail.com)
-[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40AnimeGrupIndonesia&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DGrup_Anime_Chat&longCache=true%22)](https://t.me/Grup_Anime_Chat)
 
 ##  🎶 **Currently Playing**
 [![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/31v25ooo3yqa36h5mpctehltg27e)
@@ -110,6 +109,6 @@
 </details>
 
 ## **Date**
- - Sat, 26 Jun 2021 07:12:32 GMT
+ - martes 5 de abril del 2022
 
 ---------------------
