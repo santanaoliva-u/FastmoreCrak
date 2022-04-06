@@ -64,7 +64,7 @@
 
 ##  🐙 **Github Stats**
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=FastmoreCrak&show_icons=true&theme=radical)](https://github.com/FastmoreCrak
+[![github stats](https://github-readme-stats.vercel.app/api?username=FastmoreCrak&show_icons=true&theme=radical)](https://github.com/FastmoreCrak)
 
 ![GitHub followers](https://img.shields.io/github/followers/UserLazy?color=aqua&label=Followers&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/UserLazy?affiliations=OWNER&color=aqua&style=for-the-badge)
