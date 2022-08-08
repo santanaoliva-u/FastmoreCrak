@@ -111,7 +111,7 @@
 
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
 <details> 
-    <summary><img src="https://b.thumbs.redditmedia.com/V6yfepOYBDU8KZEpUH9OPBb_WnRjnleo8wCKAeVgUVs.pngg" width="25px">
+    <summary><img src="https://b.thumbs.redditmedia.com/V6yfepOYBDU8KZEpUH9OPBb_WnRjnleo8wCKAeVgUVs.png" width="25px">
       <span>a</span>
     </summary>
 <!-- anilist_start-->
