@@ -112,7 +112,8 @@
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
 <details> 
     <summary><img src="https://b.thumbs.redditmedia.com/V6yfepOYBDU8KZEpUH9OPBb_WnRjnleo8wCKAeVgUVs.png" width="25px">
-      <span>a</span>
+      <span>CLICK AQUI</span>
+    <img src="https://b.thumbs.redditmedia.com/V6yfepOYBDU8KZEpUH9OPBb_WnRjnleo8wCKAeVgUVs.png" width="25px">
     </summary>
 <!-- anilist_start-->
  • <a href="https://anilist.co/anime/16498">Shingeki no Kyojin<a><br>
