@@ -112,7 +112,7 @@
 
 
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
-<details>
+<details> <summary>de Anime</summary>
 <!-- anilist_start-->
  • <a href="https://anilist.co/anime/16498">Shingeki no Kyojin<a><br>
  • <a href="https://anilist.co/anime/21087">One Punch Man<a><br>
