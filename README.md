@@ -114,13 +114,10 @@
     <summary><img src="https://b.thumbs.redditmedia.com/V6yfepOYBDU8KZEpUH9OPBb_WnRjnleo8wCKAeVgUVs.png" width="25px">
       <span>CLICK AQUI</span>
     <img src="https://b.thumbs.redditmedia.com/V6yfepOYBDU8KZEpUH9OPBb_WnRjnleo8wCKAeVgUVs.png" width="25px">
-    </summary>
+    </summary><br><br>
 <!-- anilist_start-->
-    
-     <div align="center"> <img  src="https://cdn-icons-png.flaticon.com/512/8204/8204233.png" width="17px"> 
-         <a href="https://anilist.co/anime/16498">Shingeki no Kyojin<a></div>
-             
-             <br>
+    <img  src="https://cdn-icons-png.flaticon.com/512/8204/8204233.png" width="17px"> 
+         <a href="https://anilist.co/anime/16498">Shingeki no Kyojin<a> <br>
  <a href="https://anilist.co/anime/21087">One Punch Man<a><br>
  • <a href="https://anilist.co/anime/97668">One Punch Man 2<a><br>
  • <a href="https://anilist.co/anime/21416">One Punch Man OVA<a><br>
