@@ -116,7 +116,7 @@
     <img src="https://b.thumbs.redditmedia.com/V6yfepOYBDU8KZEpUH9OPBb_WnRjnleo8wCKAeVgUVs.png" width="25px">
     </summary>
 <!-- anilist_start-->
-     <img src="[https://b.thumbs.redditmedia.com/V6yfepOYBDU8KZEpUH9OPBb_WnRjnleo8wCKAeVgUVs.png](https://cdn-icons.flaticon.com/png/512/3368/premium/3368896.png?token=exp=1659943525~hmac=3538d4be43ce8f8c4a26e85627ed40fc)" width="25px"> <a href="https://anilist.co/anime/16498">Shingeki no Kyojin<a><br>
+     <img src="https://www.flaticon.es/icono-gratis/subir_8204233?term=flecha&page=1&position=80&page=1&position=80&related_id=8204233&origin=tag" width="25px"> <a href="https://anilist.co/anime/16498">Shingeki no Kyojin<a><br>
  <a href="https://anilist.co/anime/21087">One Punch Man<a><br>
  • <a href="https://anilist.co/anime/97668">One Punch Man 2<a><br>
  • <a href="https://anilist.co/anime/21416">One Punch Man OVA<a><br>
